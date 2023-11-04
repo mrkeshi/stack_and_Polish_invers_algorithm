@@ -49,7 +49,7 @@ public class ConvertInToPostFix {
             case ")":
                 return 3;
             default:
-                return -1; // برای علامت‌های غیرمعتبر
+                return -1;
         }
     }
 }
